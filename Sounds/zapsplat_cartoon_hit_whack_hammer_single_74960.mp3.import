@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/zapsplat_cartoon_hit_whack_hammer_single_74960.mp3-7814ad4f293310f01735d2720a6768d5.mp3str"
+
+[deps]
+
+source_file="res://Sounds/zapsplat_cartoon_hit_whack_hammer_single_74960.mp3"
+dest_files=[ "res://.import/zapsplat_cartoon_hit_whack_hammer_single_74960.mp3-7814ad4f293310f01735d2720a6768d5.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

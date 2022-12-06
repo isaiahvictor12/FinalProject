@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/zapsplat_cartoon_ascend_musical_riff_mallet_bells_cheeky_happy_positive_001_79193.wav-1a0ee59256d48e843a2716e4c2376a10.sample"
+
+[deps]
+
+source_file="res://Sounds/zapsplat_cartoon_ascend_musical_riff_mallet_bells_cheeky_happy_positive_001_79193.wav"
+dest_files=[ "res://.import/zapsplat_cartoon_ascend_musical_riff_mallet_bells_cheeky_happy_positive_001_79193.wav-1a0ee59256d48e843a2716e4c2376a10.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

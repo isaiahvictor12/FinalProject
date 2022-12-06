@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/cartoon_fail_strings_trumpet.mp3-f42021a53af93a65490f8558ac60e470.mp3str"
+
+[deps]
+
+source_file="res://Sounds/cartoon_fail_strings_trumpet.mp3"
+dest_files=[ "res://.import/cartoon_fail_strings_trumpet.mp3-f42021a53af93a65490f8558ac60e470.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

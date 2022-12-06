@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/zapsplat_sound_design_whoosh_flames_fire_cinematic_003_62042.mp3-7e82f3b2f59ab9ce775ab81e87ba2c2e.mp3str"
+
+[deps]
+
+source_file="res://Sounds/zapsplat_sound_design_whoosh_flames_fire_cinematic_003_62042.mp3"
+dest_files=[ "res://.import/zapsplat_sound_design_whoosh_flames_fire_cinematic_003_62042.mp3-7e82f3b2f59ab9ce775ab81e87ba2c2e.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
